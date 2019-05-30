@@ -1,0 +1,47 @@
+.output/eagle/debug/obj/my_http.o .output/eagle/debug/obj/my_http.d : my_http.c ../include/my_http.h \
+ /opt/xtensa-lx106-elf/lib/gcc/xtensa-lx106-elf/4.8.2/include/string.h \
+ /opt/xtensa-lx106-elf/lib/gcc/xtensa-lx106-elf/4.8.2/include/_ansi.h \
+ /opt/xtensa-lx106-elf/lib/gcc/xtensa-lx106-elf/4.8.2/include/newlib.h \
+ /opt/xtensa-lx106-elf/lib/gcc/xtensa-lx106-elf/4.8.2/include/sys/config.h \
+ /opt/xtensa-lx106-elf/lib/gcc/xtensa-lx106-elf/4.8.2/include/machine/ieeefp.h \
+ /opt/xtensa-lx106-elf/lib/gcc/xtensa-lx106-elf/4.8.2/include/sys/reent.h \
+ /opt/xtensa-lx106-elf/lib/gcc/xtensa-lx106-elf/4.8.2/include/_ansi.h \
+ /opt/xtensa-lx106-elf/lib/gcc/xtensa-lx106-elf/4.8.2/include/sys/_types.h \
+ /opt/xtensa-lx106-elf/lib/gcc/xtensa-lx106-elf/4.8.2/include/sys/lock.h \
+ /opt/xtensa-lx106-elf/lib/gcc/xtensa-lx106-elf/4.8.2/include/stddef.h \
+ ../include/tcp_client.h \
+ /home/esp8266/Share/ESP8266_RTOS_SDK-2.0.0/include/lwip/lwip/ip_addr.h \
+ /home/esp8266/Share/ESP8266_RTOS_SDK-2.0.0/include/lwip/lwip/opt.h \
+ /home/esp8266/Share/ESP8266_RTOS_SDK-2.0.0/include/lwip/lwipopts.h \
+ /home/esp8266/Share/ESP8266_RTOS_SDK-2.0.0/include/lwip/lwip/debug.h \
+ /home/esp8266/Share/ESP8266_RTOS_SDK-2.0.0/include/lwip/lwip/arch.h \
+ /home/esp8266/Share/ESP8266_RTOS_SDK-2.0.0/include/lwip/arch/cc.h \
+ /home/esp8266/Share/ESP8266_RTOS_SDK-2.0.0/include/espressif/c_types.h \
+ /opt/xtensa-lx106-elf/lib/gcc/xtensa-lx106-elf/4.8.2/include/stdint.h \
+ /opt/xtensa-lx106-elf/lib/gcc/xtensa-lx106-elf/4.8.2/include/stdbool.h \
+ /opt/xtensa-lx106-elf/lib/gcc/xtensa-lx106-elf/4.8.2/include/stdio.h \
+ /opt/xtensa-lx106-elf/lib/gcc/xtensa-lx106-elf/4.8.2/include/stdarg.h \
+ /opt/xtensa-lx106-elf/lib/gcc/xtensa-lx106-elf/4.8.2/include/sys/types.h \
+ /opt/xtensa-lx106-elf/lib/gcc/xtensa-lx106-elf/4.8.2/include/machine/types.h \
+ /opt/xtensa-lx106-elf/lib/gcc/xtensa-lx106-elf/4.8.2/include/sys/stdio.h \
+ /home/esp8266/Share/ESP8266_RTOS_SDK-2.0.0/include/lwip/lwip/def.h \
+ /home/esp8266/Share/ESP8266_RTOS_SDK-2.0.0/include/lwip/ipv4/lwip/ip4_addr.h \
+ /home/esp8266/Share/ESP8266_RTOS_SDK-2.0.0/include/lwip/ipv6/lwip/ip6_addr.h \
+ ../include/uart.h \
+ /home/esp8266/Share/ESP8266_RTOS_SDK-2.0.0/include/espressif/c_types.h \
+ /home/esp8266/Share/ESP8266_RTOS_SDK-2.0.0/include/espressif/esp8266/uart_register.h \
+ /home/esp8266/Share/ESP8266_RTOS_SDK-2.0.0/include/espressif/esp8266/ets_sys.h \
+ /home/esp8266/Share/ESP8266_RTOS_SDK-2.0.0/include/espressif/esp_system.h \
+ /home/esp8266/Share/ESP8266_RTOS_SDK-2.0.0/include/espressif/c_types.h \
+ /home/esp8266/Share/ESP8266_RTOS_SDK-2.0.0/include/espressif/esp_libc.h \
+ /home/esp8266/Share/ESP8266_RTOS_SDK-2.0.0/include/espressif/esp_sta.h \
+ /home/esp8266/Share/ESP8266_RTOS_SDK-2.0.0/include/espressif/queue.h \
+ /home/esp8266/Share/ESP8266_RTOS_SDK-2.0.0/include/espressif/esp_wifi.h \
+ /home/esp8266/Share/ESP8266_RTOS_SDK-2.0.0/include/lwip/ipv4/lwip/ip4_addr.h \
+ /home/esp8266/Share/ESP8266_RTOS_SDK-2.0.0/include/espressif/esp_misc.h \
+ /home/esp8266/Share/ESP8266_RTOS_SDK-2.0.0/include/lwip/lwip/ip_addr.h \
+ /home/esp8266/Share/ESP8266_RTOS_SDK-2.0.0/include/espressif/esp_timer.h \
+ /home/esp8266/Share/ESP8266_RTOS_SDK-2.0.0/include/freertos/mpu_wrappers.h \
+ /home/esp8266/Share/ESP8266_RTOS_SDK-2.0.0/include/espressif/espconn.h \
+ ../include/tcp_client.h ../include/user_config.h ../include/uart.h \
+ ../include/user_config.h
