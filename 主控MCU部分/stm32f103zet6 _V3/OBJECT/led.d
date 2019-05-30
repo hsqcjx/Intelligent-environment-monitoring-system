@@ -1,0 +1,11 @@
+.\object\led.o: SYSTEM\LED\led.c
+.\object\led.o: SYSTEM\LED\led.h
+.\object\led.o: .\SYSLIB\stm32f10x.h
+.\object\led.o: .\SYSLIB\core_cm3.h
+.\object\led.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\object\led.o: .\SYSLIB\system_stm32f10x.h
+.\object\led.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\object\led.o: .\SYSTEM\DELAY\delay.h
+.\object\led.o: .\SYS\config.h
+.\object\led.o: .\SYS\sys.h
+.\object\led.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

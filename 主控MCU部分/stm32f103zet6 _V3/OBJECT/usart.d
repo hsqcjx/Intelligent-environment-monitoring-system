@@ -1,0 +1,12 @@
+.\object\usart.o: SYSTEM\USART\usart.c
+.\object\usart.o: SYSTEM\USART\usart.h
+.\object\usart.o: .\SYSLIB\stm32f10x.h
+.\object\usart.o: .\SYSLIB\core_cm3.h
+.\object\usart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\object\usart.o: .\SYSLIB\system_stm32f10x.h
+.\object\usart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\object\usart.o: .\SYS\sys.h
+.\object\usart.o: .\SYS\config.h
+.\object\usart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\object\usart.o: .\SYSTEM\LED\led.h
+.\object\usart.o: .\SYSTEM\DELAY\delay.h

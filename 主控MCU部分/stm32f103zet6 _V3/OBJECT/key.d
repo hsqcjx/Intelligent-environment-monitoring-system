@@ -1,0 +1,9 @@
+.\object\key.o: SYSTEM\KEY\key.c
+.\object\key.o: SYSTEM\KEY\key.h
+.\object\key.o: .\SYSLIB\stm32f10x.h
+.\object\key.o: .\SYSLIB\core_cm3.h
+.\object\key.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\object\key.o: .\SYSLIB\system_stm32f10x.h
+.\object\key.o: .\SYS\sys.h
+.\object\key.o: .\SYS\config.h
+.\object\key.o: .\SYSTEM\DELAY\delay.h

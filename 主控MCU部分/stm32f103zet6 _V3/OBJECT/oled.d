@@ -1,0 +1,10 @@
+.\object\oled.o: SYSTEM\OLED\oled.c
+.\object\oled.o: SYSTEM\OLED\oled.h
+.\object\oled.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\object\oled.o: .\SYSLIB\stm32f10x.h
+.\object\oled.o: .\SYSLIB\core_cm3.h
+.\object\oled.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\object\oled.o: .\SYSLIB\system_stm32f10x.h
+.\object\oled.o: .\SYSTEM\DELAY\delay.h
+.\object\oled.o: .\SYS\config.h
+.\object\oled.o: SYSTEM\OLED\oledfont.h

@@ -1,0 +1,14 @@
+.\object\nt35310_lcd.o: SYSTEM\NT35510\nt35310_lcd.c
+.\object\nt35310_lcd.o: SYSTEM\NT35510\nt35310_lcd.h
+.\object\nt35310_lcd.o: .\SYSLIB\stm32f10x.h
+.\object\nt35310_lcd.o: .\SYSLIB\core_cm3.h
+.\object\nt35310_lcd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\object\nt35310_lcd.o: .\SYSLIB\system_stm32f10x.h
+.\object\nt35310_lcd.o: .\SYS\sys.h
+.\object\nt35310_lcd.o: .\SYS\config.h
+.\object\nt35310_lcd.o: .\SYSTEM\DELAY\delay.h
+.\object\nt35310_lcd.o: .\SYSTEM\USART\usart.h
+.\object\nt35310_lcd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\object\nt35310_lcd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\object\nt35310_lcd.o: .\SYSTEM\LED\led.h
+.\object\nt35310_lcd.o: .\SYSTEM\FONT\font.h

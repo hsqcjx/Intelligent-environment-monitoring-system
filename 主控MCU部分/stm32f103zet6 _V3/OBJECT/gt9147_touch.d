@@ -1,0 +1,15 @@
+.\object\gt9147_touch.o: SYSTEM\GT9147_TOUCH\gt9147_touch.c
+.\object\gt9147_touch.o: SYSTEM\GT9147_TOUCH\gt9147_touch.h
+.\object\gt9147_touch.o: .\SYSLIB\stm32f10x.h
+.\object\gt9147_touch.o: .\SYSLIB\core_cm3.h
+.\object\gt9147_touch.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\object\gt9147_touch.o: .\SYSLIB\system_stm32f10x.h
+.\object\gt9147_touch.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\object\gt9147_touch.o: .\SYS\sys.h
+.\object\gt9147_touch.o: .\SYS\config.h
+.\object\gt9147_touch.o: .\SYSTEM\DELAY\delay.h
+.\object\gt9147_touch.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\object\gt9147_touch.o: .\SYSTEM\NT35510\nt35310_lcd.h
+.\object\gt9147_touch.o: .\SYSTEM\OLED\fontdata.h
+.\object\gt9147_touch.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\object\gt9147_touch.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h

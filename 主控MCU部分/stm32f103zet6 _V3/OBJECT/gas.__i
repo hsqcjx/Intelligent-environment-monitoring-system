@@ -1,0 +1,6 @@
+--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\SYSLIB -I .\SYS -I .\SYSTEM\LED -I .\SYSTEM\DELAY -I .\SYSTEM\KEY -I .\SYSTEM\USART -I .\SYSTEM\OLED -I .\SYSTEM\EXTI -I .\SYSTEM\TIMER -I .\SYSTEM\FONT -I .\SYSTEM\GT9147_TOUCH -I .\UCOSII\CONFIG -I .\UCOSII\CORE -I .\UCOSII\PORT -I .\SYSTEM\NT35510 -I .\SYSTEM\OLED -I .\SYSTEM\ADC -I .\SYSTEM\DHT11
+-I.\RTE\_STM32F103ZE
+-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include
+-IC:\Keil_v5\ARM\CMSIS\Include
+-D__UVISION_VERSION="525" -DSTM32F10X_HD -DSTM32F10X_HD
+-o .\object\gas.o --omf_browse .\object\gas.crf --depend .\object\gas.d "SYSTEM\FONT\Gas.c"
